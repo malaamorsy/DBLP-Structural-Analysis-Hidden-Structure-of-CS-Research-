@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data (large SNAP files)
+data/*.gz
+data/*.txt
+
+# Generated figures/results
+figures/
+results/
+
+# VS Code
+.vscode/
