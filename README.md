@@ -3,7 +3,7 @@
 ![Graph Theory](https://img.shields.io/badge/Math-Graph%20Theory-purple)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
-# DBLP-Structural-Analysis-Hidden-Structure-of-CS-Research-
+# DBLP-Structural-Analysis
 
 Graph-theoretic analysis of the DBLP co-authorship network using
 k-core decomposition, centrality, community detection, and
